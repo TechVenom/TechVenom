@@ -64,7 +64,7 @@ I'm a **Computer System Engineer** passionate about pushing the boundaries of te
 ## 🎯 Current Focus Areas
 
 ```python
-class HezronPaipai:
+class VENOMX:
     def __init__(self):
         self.role = "Computer System Engineer"
         self.current_focus = [
@@ -91,7 +91,7 @@ class HezronPaipai:
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together! 🚀")
 
-me = HezronPaipai()
+me = VENOMX()
 me.say_hi()
 ```
 
