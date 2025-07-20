@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Hezron Paipai
+# 👋 Hey there! I'm VENOMX
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+System+Engineer;AI+Developer+%26+Researcher;Cybersecurity+Expert;Full+Stack+Developer;AI+Agents+Specialist" alt="Typing SVG" />
