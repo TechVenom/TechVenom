@@ -19,7 +19,7 @@ I'm a **Computer System Engineer** passionate about pushing the boundaries of te
 - 🌱 **Learning:** Cutting-edge AI architectures and autonomous systems
 - 💼 **Expertise:** Full-stack development, AI/ML, cybersecurity, system engineering
 - 🎯 **Goal:** Building AI solutions that make a meaningful impact
-- 📧 **Contact:** gptboy47@gmail.com
+- 📧 **Contact:** Techvenom606@proton.me
 
 ---
 
@@ -137,7 +137,7 @@ me.say_hi()
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gptboy47@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Techvenom606@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechVenom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
